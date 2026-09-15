@@ -78,3 +78,8 @@ Through this project, I gained practical experience in:
 ## 👩‍💻 Author
 
 Trisha
+## 🚀 Google Colab
+
+You can view and run the project in Google Colab:
+
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1iVOH1F0XRqbLwdf2J5oVNY0RESfEl9-M?usp=sharing)
